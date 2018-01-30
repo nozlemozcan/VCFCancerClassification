@@ -1,7 +1,7 @@
 # VCFCancerClassification
 
 
-## BOUN10CANCER
+## BOUN10CANCER dataset
 
 It is compiled from The Cancer Genome Atlas (TCGA).
 It contations 10 cancer types:
